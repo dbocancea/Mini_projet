@@ -13,3 +13,4 @@ void Random::getRandomNumber()
             
         return;
 }   
+
