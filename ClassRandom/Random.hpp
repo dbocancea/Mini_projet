@@ -4,10 +4,6 @@
 #include "ClassBoard/Board.hpp"
 class Random : public Board 
 {
-
-private : 
-
-
 public :  
     void getRandomNumber() {};
 };

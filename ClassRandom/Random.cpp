@@ -13,4 +13,3 @@ void Random::getRandomNumber()
             
         return;
 }   
-//HelloWorld(print);
